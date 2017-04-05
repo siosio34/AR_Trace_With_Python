@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AR-Trace</string>
+
+    <!-- Push server IP -->
+    <string name="PUSH_SERVER_IP">163.180.117.118</string>
+
+    <!-- Naver key -->
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+    <string name="empty_list">근처 정보가 없습니다. 다른 분류를 선택해보시거나 다른 곳으로 이동해보세요.</string>
+    <string name="option_not_available">앗, 준비 중인 기능입니다!</string>
+
+    <string name="menu_item_6">정보</string>
+    <string name="menu_item_7">License</string>
+
+
+    <string name="connection_error_dialog">인터넷에 연결할 수 없습니다.</string>
+    <string name="connection_error_dialog_button1">재시도</string>
+    <string name="connection_error_dialog_button2">설정</string>
+    <string name="connection_error_dialog_button3">어플리케이션 닫기</string>
+
+    <string name="connection_GPS_dialog_text">GPS 정보를 업데이트하지 못 했습니다.\n정확한 정보가 나타나지 않을 수 있습니다.</string>
+    <string name="connection_GPS_dialog_button1">계속하기</string>
+    <string name="connection_GPS_dialog_button2">닫기</string>
+
+    <string name="no_website_available">정보를 찾을 수 없습니다.</string>
+    <string name="close_button">닫기</string>
+
+    <string name="map_menu_normal_mode">Map</string>
+    <string name="map_menu_satellite_mode">Satellite</string>
+    <string name="map_menu_cam_mode">Camera</string>
+    <string name="map_my_location">My Location</string>
+
+    <string name="map_current_location_click">Your current location</string>
+    <string name="search_failed_notification">No search results</string>
+
+    <string name="download_received">Received data from</string>
+
+    <string name="str_done">완료</string>
+    <string name="loading">로딩중입니다</string>
+
+</resources>
